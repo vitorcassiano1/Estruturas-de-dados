@@ -1,7 +1,7 @@
 # Estruturas-de-dados
 Repositório para estudo de listas encadeadas, listas ordenadas e árvores binárias em "Python, Java ou C#
 
-EstruturaDeDados
+* EstruturaDeDados
 Este repositório é dedicado ao estudo de estruturas de dados, incluindo listas encadeadas, listas ordenadas e árvores binárias, utilizando a linguagem Python.
 
 Objetivos
