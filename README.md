@@ -29,6 +29,7 @@ Aplicações Práticas no Desenvolvimento de Jogos
 📌 Listas Ordenadas
 
 🔹 Classificação de Pontuações: Ideal para manter rankings de jogadores, ordenando as pontuações de forma crescente ou decrescente.
+
 🔹 Gerenciamento de Níveis: Pode ser usada para organizar níveis de jogo que precisam ser acessados em uma ordem específica.
 
 📌 Árvores Binárias
