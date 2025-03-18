@@ -40,6 +40,5 @@ Aplicações Práticas no Desenvolvimento de Jogos
 
 🔹 Árvore de Decisão: Essencial para jogos de estratégia, ajudando a modelar escolhas e prever consequências baseadas nas ações do jogador.
 
-Contribuições
-Se quiser contribuir para este repositório, envie um pull request com suas melhorias, correções ou novos exemplos de código. Toda colaboração é bem-vinda! 🚀
+
 
